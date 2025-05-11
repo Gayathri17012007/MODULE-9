@@ -54,4 +54,4 @@ print_diagonals(matrix)
 
 
 ## Result
-Thus the program hass been executed successfully.
+Thus the program has been executed successfully.
